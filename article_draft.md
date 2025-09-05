@@ -1,1 +1,1 @@
-This is a placeholder for the academic article on adolescent identity.
+This is the updated content for the academic article on adolescent identity.
